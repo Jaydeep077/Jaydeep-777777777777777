@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaydeep_Mishra
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ...Java
+- 🌱 I’m currently learning ...Bachlelor of Tecnology(CSIT)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jaydeepmishra333@gmail.com
 
